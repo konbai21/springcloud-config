@@ -35,7 +35,7 @@ info:
   app.name: konbai
 ---
 spring:
-  profiles: dev
+  profiles: test
   application:
     name: springcloud-provider-dept
   datasource:
